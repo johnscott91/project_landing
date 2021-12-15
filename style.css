@@ -1,0 +1,100 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: orange;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px 0px 20px 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header_logo {
+margin-right: auto;
+}
+
+.header_link {
+    display: flex;
+    margin-left: auto;
+    padding: 0px 100px 0px 0px;
+    gap: 8px;
+}
+
+.second_section {
+    display: flex;
+    background-color: #F9CD76;
+}
+
+.second_section_left {
+    display: flex;
+    flex-direction: column;
+    margin-right: 600px;
+ 
+}
+
+.second_section_right {
+    display: flex;
+    align-items: center;
+    
+}
+
+.second_section_image {
+    display: block;
+    width: 150px;
+    height: 150px;
+    margin-right: 100px;
+    
+}
+
+.third_section_header {
+    text-align: center;
+}
+
+.third_section_options {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    margin-left: 70px;
+    
+}
+
+.third_section {
+    background-color: #F28167;
+}
+
+.fourth_section {
+    text-align: center;
+    font-size: 50px;
+    background-color: grey;
+}
+
+.fifth_section_left {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.fifth_section_right {
+    justify-content: right;
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+    
+}
+
+.fifth_section {
+    background-color: orange;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+img {
+    border-radius: 50px;
+    width: 200px;
+    height: 200px;
+}

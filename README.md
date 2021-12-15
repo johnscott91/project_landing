@@ -1,0 +1,1 @@
+This is my project landing page as a part of The Odin Project CSS Flexbox training section.
